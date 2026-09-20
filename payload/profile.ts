@@ -51,7 +51,7 @@ const profile: ProfilePayload = {
   tagline: 'PM · BA',
   headings: [
     { value: '중국어', label: '전공 · 교환학생 · HSK 5급 이력' },
-    { value: '96.08.05', label: 'BIRTH' },
+    { value: '96.08.05', label: 'BRON' },
     { value: '부산', label: 'Address' },
   ],
 };
